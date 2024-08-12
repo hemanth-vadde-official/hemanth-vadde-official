@@ -1,32 +1,23 @@
-<h1 align="center">Hi 👋, I'm Hemanth Vadde</h1>
-<h3 align="center">DevOps & Cloud Engineer| Microsoft Azure Cloud | Azure DevOps | #Passionate about Cloud Infrastructure Management & DevOps</h3>
+# 💫 About Me:
+I am a seasoned DevOps Engineer with extensive experience in designing, automating, and optimizing modern infrastructures. My journey in the IT industry has been marked by a passion for continuous improvement, seamless integration, and driving business success through reliable and scalable solutions.<br><br>🔥 Years of Experience: Over 3+ years of hands-on experience in the IT and DevOps field.<br>🌐 Expertise: Specializing in cloud computing, CI/CD pipelines, automation, container orchestration, Infra management and infrastructure as code (IaC).<br>🎯 Mission: To bridge the gap between development and operations, ensuring the delivery of high-quality software at a faster pace.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanth-vadde-official&label=Profile%20views&color=0e75b6&style=flat" alt="hemanth-vadde-official" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanth-vadde-official" alt="hemanth-vadde-official" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr.hemanthofficial/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hemanth-vadde/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mr.hemanthofficial) 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+# 💻 Tech Stack:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hemanth-vadde-official&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hemanth-vadde-official&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth-vadde-official&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on **EPCIS**
+---
+[![](https://visitcount.itsvg.in/api?id=hemanth-vadde-official&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **Azure DevOps, Kubernates, Docker**
+  ## 💰### 🤝 Support & Collaboration
+If you're looking for an experienced DevOps engineer to help with your projects, or if you need expert guidance on adopting DevOps practices, feel free to reach out. I'm available for consulting, training, and speaking engagements.
 
-- 📝 I regularly write articles on [https://medium.com/@mr.hemanthofficial](https://medium.com/@mr.hemanthofficial)
+- [Buy Me a Coffee] (https://buymeacoffee.com/mrhemanthmb)
 
-- 📫 How to reach me **mrhemanth45@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/inkedin.com/in/hemanth-vadde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inkedin.com/in/hemanth-vadde" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mr.hemanthofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr.hemanthofficial/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@mr.hemanthofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@mr.hemanthofficial" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanth-vadde-official&show_icons=true&locale=en&layout=compact" alt="hemanth-vadde-official" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanth-vadde-official&show_icons=true&locale=en" alt="hemanth-vadde-official" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth-vadde-official&" alt="hemanth-vadde-official" /></p>
+Thank you for visiting my GitHub profile! Let's build something incredible together. 🚀 🙌
