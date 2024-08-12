@@ -24,9 +24,6 @@ Here are some of the projects I've been working on:
 - **[Project 2](https://github.com/yourusername/project2)**: Brief description of the project.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr.hemanthofficial/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hemanth-vadde/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mr.hemanthofficial) 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hemanth-vadde-official&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hemanth-vadde-official&theme=dark&hide_border=false)<br/>
@@ -34,6 +31,19 @@ Here are some of the projects I've been working on:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hemanth-vadde-official&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Connect With Me
+
+I am open to new opportunities, collaborations, and discussions. Feel free to reach out if you’d like to connect or if you have a project in mind that we could work on together!
+
+I'm always eager to discuss new opportunities, share knowledge, and collaborate on exciting projects. Let's connect!
+
+- 👔 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/hemanth-vadde/)
+- 🐙 **GitHub**:   (https://github.com/hemanth-vadde-official)
+- 🌐 **Blog**: (https://medium.com/@mr.hemanthofficial)
+- 📧 **Email**: mrhemanth45@gmail.com
+- 📱 **WhatsApp**: [+91 9030612413](https://wa.me/9030612413)
+
 
   ## 💰### 🤝 Support & Collaboration
 If you're looking for an experienced DevOps engineer to help with your projects, or if you need expert guidance on adopting DevOps practices, feel free to reach out. I'm available for consulting, training, and speaking engagements.
