@@ -44,8 +44,7 @@ I'm always eager to discuss new opportunities, share knowledge, and collaborate 
 - 📧 **Email**: mrhemanth45@gmail.com
 - 📱 **WhatsApp**: [+91 9030612413](https://wa.me/9030612413)
 
-
-  ## 💰### 🤝 Support & Collaboration
+## 💰### 🤝 Support & Collaboration
 If you're looking for an experienced DevOps engineer to help with your projects, or if you need expert guidance on adopting DevOps practices, feel free to reach out. I'm available for consulting, training, and speaking engagements.
 
 - [Buy Me a Coffee] (https://buymeacoffee.com/mrhemanthmb)
