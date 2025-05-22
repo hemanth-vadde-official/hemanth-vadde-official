@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Hemanth Vadde
 
-🚀 **DevOps Engineer | Cloud Enthusiast | Infra-as-Code Advocate**
+🚀 **DevOps Engineer | Cloud Enthusiast**
 
 I'm a passionate and performance-driven **DevOps Engineer** with 3+ years of hands-on experience in automating, scaling, and optimizing cloud-native infrastructure. My mission is simple: **build reliable, scalable, and secure DevOps pipelines that enable faster delivery and better software**.
 
