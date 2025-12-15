@@ -1,25 +1,64 @@
-# 👋 Hey there, I'm Hemanth Vadde
+c![Logo](https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I'm+Krushna+Sonawane!;" />
+</h1>
 
-🚀 **DevOps Engineer | Cloud Enthusiast**
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
-I'm a passionate and performance-driven **DevOps Engineer** with 3+ years of hands-on experience in automating, scaling, and optimizing cloud-native infrastructure. My mission is simple: **build reliable, scalable, and secure DevOps pipelines that enable faster delivery and better software**.
 
----
 
-## 🔧 Tech Toolbox
+<p align="center">
+  <samp>
+    Hello! I'm <em>Hemanth Vadde</em>, a DevOps Engineer with a strong interest in cloud computing, automation, and containerization. I'm passionate about optimizing development and deployment processes to deliver efficient and scalable solutions.
+  </samp>
+  <br/>
+</p>
 
-Here’s a snapshot of my go-to technologies:
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krish9130&theme=algolia" alt="krish9130" /></p>
 
-- ☁️ **Cloud**: Microsoft Azure, Azure DevOps  
-- 📦 **Containers**: Docker, Azure Kubernetes Service (AKS)  
-- ⚙️ **Infra as Code**: Terraform, ARM Templates  
-- 🔁 **CI/CD**: Azure DevOps Pipelines, GitHub Actions  
-- 🐧 **OS & Scripting**: Linux, Bash/Shell Scripting  
-- 🧠 **Monitoring & Logging**: Prometheus, Grafana, Azure Monitor  
-- 💻 **Version Control**: Git, GitHub  
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
-> ✨ Constantly exploring new tech & improving automation strategies.
+## 🔧 Skills
 
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="60" alt="AWS">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="60" alt="Docker">
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="60" alt="Kubernetes">
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="60" alt="Jenkins">
+  </a>
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="60" alt="Ansible">
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="60" alt="Terraform">
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="60" alt="Linux">
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="60" alt="VS Code">
+  </a>
+</p>
+
+### 📊 Monitoring Tools
+
+ <p float="left">
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  </a>
+</p>
 ---
 
 ## 🚀 Featured Projects
