@@ -14,10 +14,6 @@ c![Logo](https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c
   <br/>
 </p>
 
-#<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krish9130&theme=algolia" alt="krish9130" /></p>
-
-<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
-
 ## 🔧 Skills
 
 <h3 align="left">Languages and Tools:</h3>
