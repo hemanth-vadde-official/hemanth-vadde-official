@@ -1,108 +1,86 @@
-c![Logo](https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I'm+Hemanth+Vadde!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hemanth+Vadde!" />
 </h1>
 
-<h3 align="center">A passionate DevOps Engineer from India</h3>
-
-
+<h3 align="center">Cloud & DevOps Engineer | Azure | AKS | Terraform | Helm | GitHub Actions</h3>
 
 <p align="center">
   <samp>
-    Hello! I'm <em>Hemanth Vadde</em>, a DevOps Engineer with a strong interest in cloud computing, automation, and containerization. I'm passionate about optimizing development and deployment processes to deliver efficient and scalable solutions.
+    I'm a DevOps Engineer with 4+ years of experience in designing, automating, and optimizing mission-critical deployments in Azure cloud environments. I specialize in containerization, Infrastructure-as-Code, and automating CI/CD workflows. Passionate about GenAI platforms, observability, and cloud-native infrastructure at scale.
   </samp>
-  <br/>
 </p>
 
-## 🔧 Skills
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🚀 About Me
 
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="60" alt="AWS">
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="60" alt="Docker">
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="60" alt="Kubernetes">
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="60" alt="Jenkins">
-  </a>
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="60" alt="Ansible">
-  </a>
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="60" alt="Terraform">
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="60" alt="Linux">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="60" alt="VS Code">
-  </a>
+- 💻 Currently working at **Kvell Dynamics**, building GenAI-powered platforms with **Azure, AKS, Docker, Helm**, and **Terraform**.
+- 🌐 Automated deployments of **Langfuse**, **Weaviate**, **Airflow**, **N8N**, and other modern ML/LLM stacks on AKS.
+- 🔁 Integrated full-stack CI/CD pipelines using **Azure DevOps**, **GitHub Actions**, and **Helm** for enterprise apps.
+- ☁️ Provisioned production-ready infrastructure with **Azure OpenAI**, **Private Endpoints**, **APIM**, **PostgreSQL**, and **Cosmos DB**.
+- 📈 Centralized monitoring using **Prometheus**, **Grafana**, and **Azure Monitor** for observability across environments.
+- 📚 Love contributing to reusable Helm charts and Terraform modules for scalable deployments.
+
+---
+
+## 🔧 Tech Stack
+
+### 🛠️ Cloud & Infrastructure
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" />
 </p>
 
-### 📊 Monitoring Tools
-
- <p float="left">
-  <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
-  </a>
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
+### 🔄 CI/CD & DevOps Tools
+<p>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" height="40" alt="Azure DevOps" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" />
 </p>
----
 
-## 🚀 Featured Projects
+### 📊 Monitoring
+<p>
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="40" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40" title="Azure Monitor" />
+</p>
 
-> Check out some of the things I've built or contributed to:
-
-- 🔧 **[InfraStack](https://github.com/yourusername/infrastack)**: IaC deployment engine using Terraform and Azure Pipelines to create and manage AKS and Azure resources securely.
-- 🛠️ **[KubeFleet](https://github.com/yourusername/kubefleet)**: A full-fledged AKS deployment blueprint with CI/CD integration and autoscaling.
-- 📦 **[DevOpsKit](https://github.com/yourusername/devopskit)**: CLI-based toolkit to bootstrap IaC projects, with reusable Terraform modules and CI/CD templates.
-
----
-
-## 📈 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=hemanth-vadde-official&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=hemanth-vadde-official&theme=github_dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth-vadde-official&theme=github_dark&layout=compact&hide_border=false)
+### 🧠 GenAI Platform Experience
+- Langfuse, LiteLLM, Langflow, Weaviate, Airflow, N8N, Qdrant, Azure OpenAI
 
 ---
 
-## 🌐 Connect With Me
+## 📁 Featured Projects
 
-📣 I'm always up for collaboration, problem-solving, and sharing knowledge.
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hemanth-vadde/)  
-- 🐙 [GitHub](https://github.com/hemanth-vadde-official)  
-- ✍️ [Medium Blog](https://medium.com/@mr.hemanthofficial)  
-- 📧 Email: [mrhemanth45@gmail.com](mailto:mrhemanth45@gmail.com)  
-- 💬 WhatsApp: [+91 9030612413](https://wa.me/9030612413)  
+- 🔧 **Langfuse on AKS**: Secure, scalable Langfuse Helm deployment with Redis, ClickHouse, Azure PostgreSQL & S3 integration.
+- 📊 **Azure DevOps CI/CD for FastAPI & Next.js**: Modular YAML pipelines for full-stack apps with SonarCloud analysis and Helm deploy.
+- ⚙️ **GenAI Observability Stack**: Auto-deployment of observability tools like Langfuse, Prometheus, and Grafana for tracking RAG apps.
 
 ---
 
-## ☕ Support & Consulting
+## 📈 GitHub Stats
 
-If you're building something exciting and need an experienced DevOps hand, I’m open for:
-
-- 🔧 Freelance DevOps Projects  
-- 📘 Mentorship & Training  
-- 🎙️ Speaking at DevOps & Cloud events  
-
-> [Buy me a Coffee](https://buymeacoffee.com/mrhemanthmb) if you find my content useful!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemanth-vadde-official&theme=github_dark&show_icons=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth-vadde-official&theme=github_dark" height="160" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=hemanth-vadde-official&icon=0&color=1)](https://visitcount.itsvg.in)
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hemanth-vadde/)
+- 🧑‍💻 [GitHub](https://github.com/hemanth-vadde-official)
+- ✍️ [Medium Blog](https://medium.com/@mr.hemanthofficial)
+- 📧 Email: [mrhemanth45@gmail.com](mailto:mrhemanth45@gmail.com)
+- 💬 WhatsApp: [+91 9030612413](https://wa.me/9030612413)
 
 ---
 
-💡 *“Automate everything, optimize constantly, and always be deploying.”*  
-Let’s build scalable systems—**together**. 🚀
+## ☕ Support
 
+If my work helps
