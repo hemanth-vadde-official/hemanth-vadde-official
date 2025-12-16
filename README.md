@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hemanth+Vadde!" />
 </h1>
 
-<h3 align="center">Cloud & DevOps Engineer | Azure | AKS | Terraform | Helm | GitHub Actions</h3>
+<h3 align="center">Cloud & DevOps Engineer | Azure | AKS | Terraform | GitHub Actions</h3>
 
 <p align="center">
   <samp>
@@ -14,18 +14,18 @@
 
 ## 🚀 About Me
 
-- 💻 Currently working at **Kvell Dynamics**, building GenAI-powered platforms with **Azure, AKS, Docker, Helm**, and **Terraform**.
+- 💻 Currently working at **Kvell Dynamics**, building GenAI-powered platforms with **Azure, AKS, Docker**, and **Terraform**.
 - 🌐 Automated deployments of **Langfuse**, **Weaviate**, **Airflow**, **N8N**, and other modern ML/LLM stacks on AKS.
-- 🔁 Integrated full-stack CI/CD pipelines using **Azure DevOps**, **GitHub Actions**, and **Helm** for enterprise apps.
+- 🔁 Integrated full-stack CI/CD pipelines using **Azure DevOps** and **GitHub Actions** for enterprise apps.
 - ☁️ Provisioned production-ready infrastructure with **Azure OpenAI**, **Private Endpoints**, **APIM**, **PostgreSQL**, and **Cosmos DB**.
 - 📈 Centralized monitoring using **Prometheus**, **Grafana**, and **Azure Monitor** for observability across environments.
-- 📚 Love contributing to reusable Helm charts and Terraform modules for scalable deployments.
+- 📚 Built reusable Terraform modules and automated deployments across dev, QA, and prod environments.
 
 ---
 
 ## 🔧 Tech Stack
 
-### 🛠️ Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" />
@@ -56,8 +56,8 @@
 
 ## 📁 Featured Projects
 
-- 🔧 **Langfuse on AKS**: Secure, scalable Langfuse Helm deployment with Redis, ClickHouse, Azure PostgreSQL & S3 integration.
-- 📊 **Azure DevOps CI/CD for FastAPI & Next.js**: Modular YAML pipelines for full-stack apps with SonarCloud analysis and Helm deploy.
+- 🔧 **Langfuse on AKS**: Secure, scalable Langfuse deployment with Redis, ClickHouse, Azure PostgreSQL & S3 integration.
+- 📊 **Azure DevOps CI/CD for FastAPI & Next.js**: Modular YAML pipelines for full-stack apps with SonarCloud analysis and AKS deployment.
 - ⚙️ **GenAI Observability Stack**: Auto-deployment of observability tools like Langfuse, Prometheus, and Grafana for tracking RAG apps.
 
 ---
@@ -83,4 +83,14 @@
 
 ## ☕ Support
 
-If my work helps
+If my work helps you or your team scale DevOps, feel free to [buy me a coffee](https://buymeacoffee.com/mrhemanthmb) or reach out for:
+
+- 🔧 Freelance DevOps Projects  
+- 📘 Mentorship & Training  
+- 🎙️ Talks on GenAI Infra, CI/CD, or IaC
+
+---
+
+> 💡 *“Automate everything, optimize constantly, and always be deploying.”*
+
+Let’s build scalable systems—**together**. 🚀
