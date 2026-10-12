@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-Cloud & DevOps Engineer with **3+ years** of experience designing, automating, and operating production-grade cloud infrastructure on **Microsoft Azure** — for banking and enterprise SaaS clients.
+Cloud & DevOps Engineer with experience in designing, automating, and operating production-grade cloud infrastructure on **Microsoft Azure** — for banking and enterprise SaaS clients.
 
 - ☸️ I run **GenAI workloads on AKS** — self-hosted Langfuse, LiteLLM, Langflow, Weaviate, Qdrant, Airflow, N8N and Flowise, packaged as reusable Helm charts
 - 🔁 I build **YAML-based CI/CD pipelines** in Azure DevOps & GitHub Actions for Next.js, FastAPI and Streamlit apps
